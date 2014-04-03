@@ -1,0 +1,1 @@
+Screenshots for devtools docs. This includes both simple PNGs and OmniGraffle files for making annotated PNGs. For the OmniGraffle files you'll need OmniGraffle, obv. They're not all super-up to date and not organized particularly well, but screenshots are pretty much throwaway so not really worth lovingly curating.
