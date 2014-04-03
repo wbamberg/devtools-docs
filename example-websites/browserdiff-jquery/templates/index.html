@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>browser-diff</title>
+    <meta name="description" content="Read differences between text files in your browser">
+    <meta name="author" content="Brian Grinstead">
+    <link rel="shortcut icon" href="favicon.ico">
+    <link href="static/css/main.css" rel="stylesheet">
+  </head>
+<body>
+
+
+    <div class='content'>
+          <H1><a href='./'><img src='img/browser-diff.png' /><span>Browser-diff</span></a>
+          </H1>
+
+        <TABLE WIDTH="100%"><TR>
+          <TD WIDTH="50%">
+<TEXTAREA ID="text1" ROWS=1>I am the very model of a modern Major-General</TEXTAREA>
+      </TD>
+          <TD WIDTH="50%">
+<TEXTAREA ID="text2" ROWS=1>I am the very model of a cartoon individual</TEXTAREA>
+      </TD>
+        </TR></TABLE>
+
+        <hr />
+
+
+        <DIV ID="outputdiv"></DIV>
+        <div><button class="btn btn-primary" id="launch">Diff</button>
+        </div>
+
+  <script type='text/javascript' src='static/scripts/jquery-2.0.3.min.js'></script>
+  <script type='text/javascript' src='static/scripts/diff-match-patch.js'></script>
+  <script type='text/javascript' src='static/scripts/browser-diff.js'></script>
+</body>
+</html>

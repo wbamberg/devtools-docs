@@ -1,0 +1,20 @@
+$main-color: #2C393B;
+$contrast-color: #FF4E00;
+
+
+body {
+  background-color: $main-color;
+  text-align: center;
+}
+
+button {
+    background: $contrast-color;
+    color: $main-color;
+    width: 85%;
+    font-size: 1.2em;
+    margin: 1em;
+  }
+
+#map {
+  margin: auto;
+}

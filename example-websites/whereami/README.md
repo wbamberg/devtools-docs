@@ -1,0 +1,1 @@
+To get this to work, you must get an API key from http://developer.mapquest.com/web/products/open, and replace "YOUR-KEY-HERE" in index.html with your key.
