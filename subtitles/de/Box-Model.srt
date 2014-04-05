@@ -1,7 +1,7 @@
 1
 00:00:01,109 --> 00:00:05,64
-Ab Firefox 30 zeigt Ihnen der Inspektor
-das Box Model.
+Ab Firefox 30 zeigt Ihnen der Seiteninspektor
+das Box Model für ein Element direkt in der Seite.
 
 2
 00:00:05,64 --> 00:00:10,49
@@ -15,17 +15,17 @@ das Element im Inspektor ausgewählt,
 
 4
 00:00:15,67 --> 00:00:21,78
-damit HTML und CSS überprüft werden können.
+damit das HTML und CSS überprüft werden kann.
 Wenn die Maus im Inspektor bewegt wird,
 
 5
 00:00:21,78 --> 00:00:25,51
 wird das entsprechende Element 
-auf der Seite hervorgehoben. Ein Klick
+auf der Seite hervorgehoben. Ein Klick darauf
 
 6
 00:00:25,51 --> 00:00:29,789
-hebt es wieder hervor. Um ein neues Element direkt auf der Seite auszuwählen,
+wählt es aus. Um ein neues Element direkt auf der Seite auszuwählen,
 
 7
 00:00:29,789 --> 00:00:34,35
