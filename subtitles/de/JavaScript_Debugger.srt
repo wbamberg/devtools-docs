@@ -6,7 +6,7 @@ schrittweise JavaScript Code
 2
 00:00:07,18 --> 00:00:10,309
 zu untersuchen, zu bearbeiten und hilft
-bei der beseitigung von Bugs.
+bei der Beseitigung von Bugs.
 
 3
 00:00:10,309 --> 00:00:14,929
@@ -28,7 +28,7 @@ welches dem externen Debugging ziemlich ähnlich ist.
 
 7
 00:00:30,8 --> 00:00:34,84
-Links sehen sie eine Liste aller Scripte,
+Links sehen Sie eine Liste aller Scripte,
 die von der Seite geladen wurden.
 
 8
@@ -66,7 +66,6 @@ die nicht explizit gelistet sind.
 
 15
 00:01:23,87 --> 00:01:30,87
-You can modify the values of variables
 Sie können ebenfalls die Werte der Variablen
 
 16
@@ -76,12 +75,11 @@ sofort in das laufende Programm übernommen.
 
 17
 00:01:37,43 --> 00:01:42,24
-It's just a really quick introduction
-Dies ist nur eine schnelle Einführung
+Dies ist nur eine kurze Einführung
 
 18
 00:01:42,24 --> 00:01:45,37
-in die Funktionen des Debuggers. Um mehr zu Erfahren,
+in die Funktionen des Debuggers. Um mehr zu erfahren,
 
 19
 00:01:45,37 --> 00:01:47,37
