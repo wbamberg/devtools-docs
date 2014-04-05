@@ -1,0 +1,114 @@
+1
+00:00:02,62 --> 00:00:05,06
+Web Console is usually first place you
+go
+
+2
+00:00:05,06 --> 00:00:10,91
+when you're debugging a website or web app. It logs
+information associated with the page,
+
+3
+00:00:10,91 --> 00:00:14,85
+including JavaScript, CSS, and security
+errors and warnings.
+
+4
+00:00:14,85 --> 00:00:18,83
+Network requests and messages logged
+using the console API.
+
+5
+00:00:18,83 --> 00:00:22,16
+Errors, warnings and log messages
+
+6
+00:00:22,16 --> 00:00:26,19
+get link next to them. Click the link
+and you see the line of code that generated
+
+7
+00:00:26,19 --> 00:00:27,28
+the message.
+
+8
+00:00:27,28 --> 00:00:30,6
+JavaScript opened in the debugger
+
+9
+00:00:30,6 --> 00:00:37,34
+and CSS puts you in the style editor.
+
+10
+00:00:37,34 --> 00:00:43,13
+You can filter the messages using the
+buttons along the top. If a network request
+
+11
+00:00:43,13 --> 00:00:43,73
+fails,
+
+12
+00:00:43,73 --> 00:00:47,329
+that's clearly marked, you can click on
+network request to see more information
+
+13
+00:00:47,329 --> 00:00:47,899
+about it.
+
+14
+00:00:47,899 --> 00:00:52,829
+At the command line
+
+15
+00:00:52,829 --> 00:00:57,71
+you can execute JavaScript in the page context.
+It has also a complete for
+
+16
+00:00:57,71 --> 00:01:02,14
+objects to find in the page. If you click an
+object
+
+17
+00:01:02,14 --> 00:01:07,799
+you'll see more information about in
+this pane on the right. You can interact
+
+18
+00:01:07,799 --> 00:01:09,69
+with this object on the page, too.
+
+19
+00:01:09,69 --> 00:01:14,96
+And you can access the object using CSS
+selectors.
+
+20
+00:01:14,96 --> 00:01:19,34
+Of course you can modify variables
+
+21
+00:01:19,34 --> 00:01:23,17
+The site is supposed to compare those two text
+areas, when I click the button.
+
+22
+00:01:23,17 --> 00:01:30,17
+But it doesn't work and logs an error. Looking at
+the area, I might guess that this line
+
+23
+00:01:30,77 --> 00:01:37,77
+contains a typo and I can test that theory out.
+
+24
+00:01:44,59 --> 00:01:47,76
+This is just a really quick introduction to
+the main features of the web console
+
+25
+00:01:47,76 --> 00:01:51,11
+for more information visit developer.mozilla.org
+
