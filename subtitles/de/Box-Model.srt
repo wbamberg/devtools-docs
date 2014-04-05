@@ -1,0 +1,38 @@
+1
+00:00:01,109 --> 00:00:05,64
+Ab Firefox 30 zeigt Ihnen der Inspektor
+das Box Model.
+
+2
+00:00:05,64 --> 00:00:10,49
+Klicken Sie mit der rechten Maustaste auf ein Element,
+um es auszuwählen und wählen Sie "Element untersuchen".
+
+3
+00:00:10,49 --> 00:00:15,67
+Das Box Model wird kurz angezeigt und
+das Element im Inspektor ausgewählt,
+
+4
+00:00:15,67 --> 00:00:21,78
+damit HTML und CSS überprüft werden können.
+Wenn die Maus im Inspektor bewegt wird,
+
+5
+00:00:21,78 --> 00:00:25,51
+wird das entsprechende Element 
+auf der Seite hervorgehoben. Ein Klick
+
+6
+00:00:25,51 --> 00:00:29,789
+hebt es wieder hervor. Um ein neues Element direkt auf der Seite auszuwählen,
+
+7
+00:00:29,789 --> 00:00:34,35
+wird erst diese Schaltfläche angeklickt.
+Wenn jetzt die Maus über die Seite bewegt wird,
+
+8
+00:00:34,35 --> 00:00:38,609
+hebt sich das entsprechende Element hervor.
+Ein Klick wählt es wieder aus.

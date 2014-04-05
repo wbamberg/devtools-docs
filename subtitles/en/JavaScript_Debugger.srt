@@ -20,7 +20,7 @@ Firefox OS device or
 
 5
 00:00:18,57 --> 00:00:22,859
-on run Firefox for Android. We look at local
+on Firefox for Android. We look at local
 debugging here
 
 6

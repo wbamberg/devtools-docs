@@ -10,18 +10,18 @@ and choose "inspect element".
 
 3
 00:00:10,49 --> 00:00:15,67
-Box model is briefly shown. The elements
-are now selected in the inspector
+The box model is briefly shown and the element
+is now selected in the inspector
 
 4
 00:00:15,67 --> 00:00:21,78
-where you can examine as HTML and CSS. Moving the mouse
-around the inspector
+where you can examine the HTML and CSS. Moving the mouse
+around in the inspector
 
 5
 00:00:21,78 --> 00:00:25,51
 highlights the corresponding element on
-the page, clicking on it
+the page. Clicking on it
 
 6
 00:00:25,51 --> 00:00:29,789
