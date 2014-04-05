@@ -20,12 +20,12 @@ HTML and CSS
 5
 00:00:16,34 --> 00:00:20,21
 and included some JavaScript library
-functions but having it hooked them up.
+functions but I haven't yet hooked them up.
 
 6
 00:00:20,21 --> 00:00:27,21
 So when I click the button, nothing
-happens. Scratch is a source editor.
+happens. Scratchpad is a source editor.
 
 7
 00:00:28,039 --> 00:00:33,239
@@ -44,7 +44,7 @@ in my selector.
 
 10
 00:00:50,61 --> 00:00:54,03
-Let's assign these two variables and compare
+Let's assign these to variables and compare
 them using the library function.
 
 11
@@ -80,7 +80,7 @@ attached. And "diff" works.
 
 18
 00:01:28,18 --> 00:01:32,11
-I can save this file back to desk.
+I can save this file back to disk.
 
 19
 00:01:32,11 --> 00:01:36,43
