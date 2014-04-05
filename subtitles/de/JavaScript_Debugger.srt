@@ -38,11 +38,11 @@ Sie können ebenfalls Haltepunkte setzen.
 
 9
 00:00:40,1 --> 00:00:46,629
-You can step into functions,
+Sie können Funktionen schrittweise Ausführen,
 
 10
 00:00:46,629 --> 00:00:53,629
-run to the end of functions and resume execution.
+zum Ende der Funktion springen und die Ausführung fortsetzen.
 Sie können auch bedingte Haltepunkte setzen.
 
 11
