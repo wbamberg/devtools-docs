@@ -36,7 +36,7 @@ Das zeigt mir, dass ich vermutlich einen Tippfehler in meinem Selektor habe.
 
 10
 00:00:50,61 --> 00:00:54,03
-Wir weisen sie jetzt Variablen zu und vergleichen sie mit der Bibliotheksfunktion.
+Wir weisen jetzt Variablen zu und vergleichen sie mit der Bibliotheksfunktion.
 
 11
 00:00:54,03 --> 00:00:59,28
