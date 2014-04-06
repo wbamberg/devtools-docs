@@ -20,7 +20,7 @@ Fehler, Warnungen und Protokollbenachrichtigungen
 
 6
 00:00:22,16 --> 00:00:26,19
-besitzen einen Link. Klicken Sie auf den Link und Sie sehen die Zeile Quelltext, die die Nachricht
+besitzen einen Link. Klicken Sie auf den Link und Sie sehen die jeweilige Zeile des Quelltext, die die Nachricht
 
 7
 00:00:26,19 --> 00:00:27,28
@@ -60,11 +60,12 @@ können Sie JavaScript im Kontext der Seite ausführen. Sie verfügt über eine 
 
 16
 00:00:57,71 --> 00:01:02,14
-die man in der Seite findet. Wenn Sie auf ein Objekt klicken
+die man in der Seite findet. Wenn Sie auf ein Objekt klicken,
 
 17
 00:01:02,14 --> 00:01:07,799
-werden in diesem Bereich rechts weitere Informationen dazu angezeigt. Sie können mit diesem Objekt
+werden in diesem Bereich rechts weitere Informationen dazu angezeigt.
+Sie können mit diesem Objekt
 
 18
 00:01:07,799 --> 00:01:09,69
@@ -76,15 +77,17 @@ Und Sie können mit CSS-Selektoren auf Objekte zugreifen.
 
 20
 00:01:14,96 --> 00:01:19,34
-Natürlich können Sie Variablen verändern
+Natürlich können Sie Variablen verändern.
 
 21
 00:01:19,34 --> 00:01:23,17
-Diese Website soll diese beiden Textfelder vergleichen, wenn ich auf die Schaltfläche klicke.
+Diese Website soll diese beiden Textfelder vergleichen,
+wenn ich auf die Schaltfläche klicken.
 
 22
 00:01:23,17 --> 00:01:30,17
-Aber sie funktioniert nicht und es wird ein Fehler aufgezeichnet. Wenn ich mir den Bereich anschaue, komme ich vielleicht darauf, dass diese Zeile
+Aber sie funktioniert nicht und es wird ein Fehler aufgezeichnet.
+Wenn ich mir den Bereich anschaue, könnte ich mir vorstellen, dass diese Zeile
 
 23
 00:01:30,77 --> 00:01:37,77
