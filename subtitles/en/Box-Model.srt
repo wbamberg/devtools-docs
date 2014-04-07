@@ -1,0 +1,39 @@
+1
+00:00:01,109 --> 00:00:05,64
+Starting Firefox 30, the page inspector shows
+you the box model from the element right
+
+2
+00:00:05,64 --> 00:00:10,49
+in the page. To select an element, right click on it
+and choose "inspect element".
+
+3
+00:00:10,49 --> 00:00:15,67
+The box model is briefly shown and the element
+is now selected in the inspector
+
+4
+00:00:15,67 --> 00:00:21,78
+where you can examine the HTML and CSS. Moving the mouse
+around in the inspector
+
+5
+00:00:21,78 --> 00:00:25,51
+highlights the corresponding element on
+the page. Clicking on it
+
+6
+00:00:25,51 --> 00:00:29,789
+selects it. To select a new element from the page
+
+7
+00:00:29,789 --> 00:00:34,35
+click this button. Now, moving the mouse around
+the page
+
+8
+00:00:34,35 --> 00:00:38,609
+the corresponding element is highlighted
+and clicking on it selects it again.
+

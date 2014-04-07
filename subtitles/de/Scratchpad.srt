@@ -1,0 +1,83 @@
+1
+00:00:03,179 --> 00:00:06,569
+Die JavaScript-Umgebung ist eine praktische Möglichkeit, um JavaScript zu entwickeln und zu testen.
+
+2
+00:00:06,569 --> 00:00:10,15
+Diese Website soll die beiden obigen Textfelder vergleichen
+
+3
+00:00:10,15 --> 00:00:15,289
+und das Ergebnis darunter einfügen, wenn ich auf „Diff“ klicke. Ich habe das
+
+4
+00:00:15,289 --> 00:00:16,34
+HTML und CSS geschrieben
+
+5
+00:00:16,34 --> 00:00:20,21
+und ein paar JavaScript-Bibliotheksfunktionen eingebaut, aber noch nicht aktiviert.
+
+6
+00:00:20,21 --> 00:00:27,21
+Wenn ich jetzt also auf diese Schaltfläche klicke, passiert nichts. Die JavaScript-Umgebung ist ein Quelltext-Editor.
+
+7
+00:00:28,039 --> 00:00:33,239
+Wenn ich auf „Anzeigen“ klicke, wird der Quelltext in der aktuellen Seite ausgewertet
+
+8
+00:00:33,239 --> 00:00:38,25
+und das Ergebnis wird als Kommentar in die JavaScript-Umgebung eingefügt.
+
+9
+00:00:38,25 --> 00:00:45,25
+Das zeigt mir, dass ich vermutlich einen Tippfehler in meinem Selektor habe.
+
+10
+00:00:50,61 --> 00:00:54,03
+Wir weisen jetzt Variablen zu und vergleichen sie mit der Bibliotheksfunktion.
+
+11
+00:00:54,03 --> 00:00:59,28
+Mit „Anzeigen“ ist ganz einfach zu sehen, ob ich auf dem richtigen Weg bin.
+
+12
+00:00:59,28 --> 00:01:02,42
+Jetzt weisen wir das dem Ausgabe-Diff zu.
+
+13
+00:01:02,42 --> 00:01:05,93
+Diesmal wähle ich „Ausführen“
+
+14
+00:01:05,93 --> 00:01:11,19
+und das Skript wird direkt in der Seite ausgeführt. Das sieht gut aus.
+
+15
+00:01:11,19 --> 00:01:15,68
+Jetzt packe ich das ganze in eine Funktion und weise es dem Klick-Ereignis der Diff-Schaltfläche zu.
+
+16
+00:01:15,68 --> 00:01:20,92
+Und diesmal wähle ich „Neu laden und ausführen“,
+
+17
+00:01:20,92 --> 00:01:27,92
+dadurch wird die aktuelle Seite neu geladen, mit dem Skript im Anhang. Und „Diff“ funktioniert.
+
+18
+00:01:28,18 --> 00:01:32,11
+Ich kann diese Datei wieder auf die Festplatte speichern.
+
+19
+00:01:32,11 --> 00:01:36,43
+Ich schließe die JavaScript-Umgebung und lade die Seite neu.
+
+20
+00:01:36,43 --> 00:01:43,04
+Das war nur eine ganz kurze Einführung in die JavaScript-Umgebung. Weitere Informationen finden Sie
+
+21
+00:01:43,04 --> 00:01:44,869
+unter developer.mozilla.org
