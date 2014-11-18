@@ -1,0 +1,103 @@
+1
+00:00:02,62 --> 00:00:05,06
+Die Web-Konsole ist meist die erste Wahl
+
+2
+00:00:05,06 --> 00:00:10,91
+wenn Sie eine Website oder Web-App debuggen. Sie zeichnet Informationen auf, die zu der Seite gehören,
+
+3
+00:00:10,91 --> 00:00:14,85
+wie JavaScript, CSS, sowie Sicherheits-Fehler- und Warnmeldungen.
+
+4
+00:00:14,85 --> 00:00:18,83
+Netzwerkanfragen und -Nachrichten werden mit der Konsolen-API aufgezeichnet.
+
+5
+00:00:18,83 --> 00:00:22,16
+Fehler, Warnungen und Protokollbenachrichtigungen
+
+6
+00:00:22,16 --> 00:00:26,19
+besitzen einen Link. Klicken Sie auf den Link und Sie sehen die jeweilige Zeile des Quelltext, die die Nachricht
+
+7
+00:00:26,19 --> 00:00:27,28
+erzeugt hat.
+
+8
+00:00:27,28 --> 00:00:30,6
+JavaScript wird im Debugger geöffnet
+
+9
+00:00:30,6 --> 00:00:37,34
+und mit CSS landen Sie im Stil-Editor.
+
+10
+00:00:37,34 --> 00:00:43,13
+Sie können die Nachrichten mit den Schaltflächen am oberen Rand filtern. Wenn eine Netzwerkanfrage
+
+11
+00:00:43,13 --> 00:00:43,73
+fehlschlägt,
+
+12
+00:00:43,73 --> 00:00:47,329
+wird sie deutlich gekennzeichnet. Sie können die Netzwerkanfrage dann anklicken, um weitere Informationen
+
+13
+00:00:47,329 --> 00:00:47,899
+darüber zu sehen.
+
+14
+00:00:47,899 --> 00:00:52,829
+In der Kommandozeile
+
+15
+00:00:52,829 --> 00:00:57,71
+können Sie JavaScript im Kontext der Seite ausführen. Sie verfügt über eine Autovervollständigung für Objekte,
+
+16
+00:00:57,71 --> 00:01:02,14
+die man in der Seite findet. Wenn Sie auf ein Objekt klicken,
+
+17
+00:01:02,14 --> 00:01:07,799
+werden in diesem Bereich rechts weitere Informationen dazu angezeigt.
+Sie können mit diesem Objekt
+
+18
+00:01:07,799 --> 00:01:09,69
+auch in der Seite interagieren.
+
+19
+00:01:09,69 --> 00:01:14,96
+Und Sie können mit CSS-Selektoren auf Objekte zugreifen.
+
+20
+00:01:14,96 --> 00:01:19,34
+Natürlich können Sie Variablen verändern.
+
+21
+00:01:19,34 --> 00:01:23,17
+Diese Website soll diese beiden Textfelder vergleichen,
+wenn ich auf die Schaltfläche klicken.
+
+22
+00:01:23,17 --> 00:01:30,17
+Aber sie funktioniert nicht und es wird ein Fehler aufgezeichnet.
+Wenn ich mir den Bereich anschaue, könnte ich mir vorstellen, dass diese Zeile
+
+23
+00:01:30,77 --> 00:01:37,77
+einen Tippfehler enthält und ich kann testen, ob diese Theorie stimmt.
+
+24
+00:01:44,59 --> 00:01:47,76
+Das war nur eine ganz kurze Einführung in die wichtigsten Funktionen der Web-Konsole
+
+25
+00:01:47,76 --> 00:01:51,11
+weitere Informationen finden Sie unter developer.mozilla.org
+
